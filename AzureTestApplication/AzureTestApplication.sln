@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureTestApplication", "AzureTestApplication\AzureTestApplication.csproj", "{7DC27AC4-A077-4E43-92AF-52B2C887901F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureTestApplication.Tests", "AzureTestApplication.Tests\AzureTestApplication.Tests.csproj", "{9130EB3C-166A-4CA8-BB77-53D7482F0615}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DC27AC4-A077-4E43-92AF-52B2C887901F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC27AC4-A077-4E43-92AF-52B2C887901F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC27AC4-A077-4E43-92AF-52B2C887901F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC27AC4-A077-4E43-92AF-52B2C887901F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9130EB3C-166A-4CA8-BB77-53D7482F0615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9130EB3C-166A-4CA8-BB77-53D7482F0615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9130EB3C-166A-4CA8-BB77-53D7482F0615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9130EB3C-166A-4CA8-BB77-53D7482F0615}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
